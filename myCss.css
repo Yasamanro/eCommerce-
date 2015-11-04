@@ -1,0 +1,61 @@
+body {
+    background: url(tweed_@2X.png) repeat;
+    padding-top: 30px;
+}
+body * {
+    border-radius: 0 !important;
+}
+
+.transparentNav {
+    background-color: rgba(50,50,50,0.4);
+    border: none;
+}
+
+.transparentNav a {
+    color: #ffffff !important;
+}
+
+.modal-backdrop {
+    position: relative;
+    z-index: 1;
+}
+
+.fade.in {
+    background-color: rgba(0,0,0,0.5);
+}
+
+a:focus {
+    outline: none;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+.whiteBack {
+    background-color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+.navbar-fixed-top {
+    right: 6.33%;
+    left: 3.90%;
+}
+
+li {
+    list-style: none;
+}
+
+.red {
+    color: red;
+}
+
+.myImgFooter {
+    text-align: center;
+}
+.row h2,h3,h4 {
+    padding: 15px;
+}
