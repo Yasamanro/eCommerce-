@@ -67,3 +67,25 @@ li {
     text-align: right;
     padding: 20px;
 }
+
+.mahsool img {
+    background-color: black;
+}
+
+.mahsool a i{
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.myBtn {
+    width: 100%;
+}
+
+h3,h4 {
+    text-align: right;
+}
+
+.mahsool {
+    border: solid gray 1px;
+}
