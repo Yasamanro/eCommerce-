@@ -13,7 +13,7 @@ body * {
     border: none;
 }
 
-.navbar .fa{
+.navbar .fa,.gray.fa{
     color: gray!important;
 }
 

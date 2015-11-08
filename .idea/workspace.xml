@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d5237b-6014-4717-8ca7-7510cf84248c" name="Default" comment="">
+    <list default="true" id="95d5237b-6014-4717-8ca7-7510cf84248c" name="Default" comment="upload img">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cfe89b.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.html" afterPath="$PROJECT_DIR$/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/more.html" afterPath="$PROJECT_DIR$/more.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myCss.css" afterPath="$PROJECT_DIR$/myCss.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Narm2.iws" />
@@ -30,8 +34,8 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.7083335" vertical-offset="400" max-vertical-offset="5265">
-              <caret line="39" column="108" selection-start-line="39" selection-start-column="108" selection-end-line="39" selection-end-column="108" />
+            <state vertical-scroll-proportion="-8.958333" vertical-offset="5005" max-vertical-offset="5520">
+              <caret line="348" column="43" selection-start-line="348" selection-start-column="43" selection-end-line="348" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -40,8 +44,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.708334" vertical-offset="1270" max-vertical-offset="5520">
-              <caret line="121" column="19" selection-start-line="121" selection-start-column="19" selection-end-line="121" selection-end-column="19" />
+            <state vertical-scroll-proportion="-10.833333" vertical-offset="4960" max-vertical-offset="5520">
+              <caret line="348" column="47" selection-start-line="158" selection-start-column="20" selection-end-line="348" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -67,16 +71,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/search.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="2025">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="addedtocart.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/addedtocart.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="finalizeShop.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="finalizeShop.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/finalizeShop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.9428571" vertical-offset="1015" max-vertical-offset="2145">
-              <caret line="113" column="41" selection-start-line="113" selection-start-column="41" selection-end-line="113" selection-end-column="41" />
+            <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="2145">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -111,7 +105,17 @@
         <entry file="file://$PROJECT_DIR$/myCss.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2820">
-              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="more.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/more.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.64285713" vertical-offset="0" max-vertical-offset="2175">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -139,16 +143,16 @@
         <option value="$PROJECT_DIR$/addedtocart.html" />
         <option value="$PROJECT_DIR$/description.html" />
         <option value="$PROJECT_DIR$/addedtocartmore.html" />
-        <option value="$PROJECT_DIR$/more.html" />
         <option value="$PROJECT_DIR$/signup.html" />
         <option value="$PROJECT_DIR$/search.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/myCss.css" />
         <option value="$PROJECT_DIR$/edituser.html" />
-        <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/addedToAdmin.html" />
         <option value="$PROJECT_DIR$/admin.html" />
         <option value="$PROJECT_DIR$/finalizeShop.html" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/more.html" />
+        <option value="$PROJECT_DIR$/myCss.css" />
       </list>
     </option>
   </component>
@@ -292,7 +296,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446972068186</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="upload img">
+      <created>1446972119979</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1446972119979</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -317,9 +327,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1266" height="692" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -361,7 +371,8 @@
     <MESSAGE value="kamel shodan linke mahsoolat" />
     <MESSAGE value="shopping cart completed." />
     <MESSAGE value="nearly finished..." />
-    <option name="LAST_COMMIT_MESSAGE" value="nearly finished..." />
+    <MESSAGE value="upload img" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload img" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -372,38 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/more.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="2175">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myCss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2820">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7083335" vertical-offset="400" max-vertical-offset="5265">
-          <caret line="39" column="108" selection-start-line="39" selection-start-column="108" selection-end-line="39" selection-end-column="108" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.708334" vertical-offset="1270" max-vertical-offset="5520">
-          <caret line="121" column="19" selection-start-line="121" selection-start-column="19" selection-end-line="121" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -458,8 +437,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/finalizeShop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.9428571" vertical-offset="1015" max-vertical-offset="2145">
-          <caret line="113" column="41" selection-start-line="113" selection-start-column="41" selection-end-line="113" selection-end-column="41" />
+        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="2145">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.833333" vertical-offset="4960" max-vertical-offset="5520">
+          <caret line="348" column="47" selection-start-line="158" selection-start-column="20" selection-end-line="348" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.958333" vertical-offset="5005" max-vertical-offset="5520">
+          <caret line="348" column="43" selection-start-line="348" selection-start-column="43" selection-end-line="348" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myCss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2820">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/more.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64285713" vertical-offset="0" max-vertical-offset="2175">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding />
         </state>
       </provider>
