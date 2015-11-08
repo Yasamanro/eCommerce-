@@ -2,9 +2,139 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> فروشگاه اینترنتی</title>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap-rtl-master/dist/css/bootstrap-rtl.min.css" type="text/css">
+    <link rel="stylesheet" href="font-awesome-4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="myCss.css" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </head>
 <body>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="index.html">
+                            <b>فاندو</b>
+                        </a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="myNavbar">
+                        <ul class="nav navbar-nav">
+                            <li><a href="index.html">خانه</a></li>
+                            <li><a href="index.html">محصولات</a></li>
+                            <li><a href="index.html">تماس با ما</a></li>
+                        </ul>
+                        <ul class="nav navbar-nav navbar-right pull-left">
+                            <li><a href="signup.html">ثبت نام کنید</a></li>
+                            <li><a href="#" data-toggle="modal" data-target="#myModal">ورود به سایت</a></li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <form class="navbar-form navbar-left" role="search">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="جستجو">
+                                    </div>
+                                    <button type="submit" class="btn btn-default">جستجو</button>
+                                </form>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a href="#" class="pull-left"><i data-toggle="modal" data-target="#myModal2" class="fa fa-shopping-cart fa-2x"></i></a>
+                                <!-- Modal -->
+                                <div class="modal fade" id="myModal2" role="dialog">
+                                    <div class="modal-dialog">
 
+                                        <!-- Modal content-->
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                <h4 class="modal-title">سبد خرید شما در فاندو</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <p class="red">هیچ محصولی در سبد خرید موجود نمی باشد.</p>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-default" data-dismiss="modal">بستن</button>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                        <!-- Modal -->
+                        <div class="modal fade" id="myModal" role="dialog">
+                            <div class="modal-dialog">
+
+                                <!-- Modal content-->
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                        <h4 class="modal-title">ورود به سایت</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        <form role="form">
+                                            <div class="form-group">
+                                                <div>
+                                                    <label for="email">ایمیل:</label>
+                                                </div>
+                                                <input  type="email" name="email" class="form-control" id="email" value="sampleUser">
+                                            </div>
+                                            <div class="form-group">
+                                                <div>
+                                                    <label for="pwd">رمز ورود:</label>
+                                                </div>
+                                                <input name="password" type="password" class="form-control" id="pwd" value="sample">
+                                            </div>
+                                        </form>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-default" data-dismiss="modal">بستن</button>
+                                        <a href="login.html"><button type="button" class="btn btn-default">ورود</button></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div class="row whiteBack sign-up">
+        <div class="container-fluid">
+            <div class="jumbotron">
+                <h3>کتاب من گوساله‌ ام اثر بزرگمهر حسین پور</h3>
+                <img class="img-responsive" src="cfe89b.jpg" width="400" height="800">
+                <h5>اگر می‌خواهید مسائل مطرح شده در این کتاب را به آدم‌ها نسبت دهید، اگر می‌خواهید نکته‌ها، عقده‌ها، دغدغه‌های فکری و ذهنی، اجتماعی و سیاسی بشر امروز را به این کمیک‌ها بچسبانید، عمیقا در اشتباهید و دقیقا شما نیز مانند یک گوساله عمل کرده‌اید. این کتاب هذیان‌ها و خزعبلات یک گوساله است که مجموعه‌ی پرت و پلاهای پدربزرگش را که مدام عرق ینجه می‌خورد و دم‌دمای غروب آفتاب آروغ می‌زند و یونجه نشخوار می‌کند به خورد ما داده است. وقتی به‌عنوان ناظر خواستم مقدمه‌ای بر این کتاب بنویسم مطمئن شدم که واقعا اینکه «بسیاری از موجودات گوساله به دنیا می‌آیند و گاو از دنیا می‌روند» چقدر غلط است و باید به‌جای «بسیاری» کلمه‌ی «معدودی» را گذاشت تا مفهوم کلام درست بیان گردد. و البته من بسیار خوشحالم که اینچنین نیستم.</h5>
+                <hr>
+                <p>نام:&nbsp;<b>من گوساله ام</b></p>
+                <p>قیمت(تومان):&nbsp;<b>۱۰۰۰۰ </b></p>
+                <p>موجود:&nbsp;<b>بله</b></p>
+                <br>
+                <a href="addedtocart.html"><i class="fa fa-cart-plus  fa-2x"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="row"><br></div>
+    <div class="row"><br></div>
+    <div class="row"><br></div>
+    <div class="row whiteBack">
+        <div class="col-lg-12">
+            <br>
+            <p>کلیه حقوق سایت متعلق به فاندو می باشد.</p>
+            <br>
+        </div>
+    </div>
+</div>
 </body>
 </html>
