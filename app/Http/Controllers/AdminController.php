@@ -1,9 +1,13 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use Hash;
+use Auth;
 use App\User;
 use App\Http\Controllers\Controller;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Validator;
+
 
 class AdminController extends Controller {
 
@@ -13,21 +17,22 @@ class AdminController extends Controller {
     }
 
     //processing the form
-    public function doLogin() {
+    public function doLogin(Request $request) {
 
-        $rule = array('password' => 'required|alphaNum|min:3');
-
-        $validator = Validator::make(Input::all(),$rule);
+        $validator = Validator::make($request->all(), [
+            'email' => 'required',
+            'password' => 'required',
+        ]);
 
         if($validator->fails()) {
-            return Redirect::to('adminlogin')->withErrors($validator);
+            return redirect('adminlogin')->withErrors($validator);
         } else {
-            $password = array('title'=>'admin','password' => Input::get('password'));
+            $password = array('email'=>$request->input('email'),'password' => $request->input('password'));
 
             if(Auth::attempt($password)) {
-                return redirect('admin');
+                return redirect('home');
             } else {
-                return redirect('adminlogin');
+                return redirect('adminlogin')->withErrors("Wrong Username or Password");
             }
         }
 

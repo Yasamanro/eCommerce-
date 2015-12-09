@@ -181,3 +181,9 @@ a{
 a:hover{
     color: #ffffff;
 }
+.adminlogin {
+    background: #ffffff;
+}
+.bg-danger.alert{
+    direction: ltr;
+}
