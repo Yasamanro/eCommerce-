@@ -1,0 +1,183 @@
+body {
+    background: url(../tweed_@2X.png) repeat;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+body * {
+    border-radius: 0 !important;
+}
+
+.transparentNav {
+    background-color: rgba(50,50,50,0.4);
+    border: none;
+}
+
+.navbar .fa,.gray.fa{
+    color: gray!important;
+}
+
+.transparentNav a {
+    color: #ffffff !important;
+}
+
+.modal-backdrop {
+    position: relative;
+    z-index: 1;
+}
+
+.fade.in {
+    background-color: rgba(0,0,0,0.5);
+}
+
+a:focus {
+    outline: none;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+.whiteBack {
+    background-color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    text-align: center;
+}
+
+.navbar-fixed-top {
+    right: 6.33%;
+    left: 3.90%;
+}
+
+li {
+    list-style: none;
+}
+
+.red {
+    color: red;
+}
+
+.myImgFooter {
+    text-align: center;
+}
+
+.carousel-control{
+    width: 5%;
+}
+
+.carousel-inner img{
+    width: 100% !important;
+}
+
+.row h2,h3,h4 {
+    padding: 15px;
+}
+
+h3.header,h4.header{
+    padding-right: 35px;
+    position: relative;
+}
+
+h3.header:before,h4.header:before{
+    content: ' ';
+    display: block;
+    width: 12px;
+    height: 12px;
+    background-color: gray;
+    border: solid 4px gray;
+    position: absolute;
+    right: 12px;
+    bottom:20px;
+}
+
+h4.header:before{
+    background: none;
+    bottom: 18px;
+}
+
+.sign-up {
+    text-align: right;
+    padding: 20px;
+}
+
+.mahsool img {
+    z-index: 5;
+    width: 100%;
+    height: auto;
+    background-color: black;
+    transition: all 0.5s;
+}
+
+.mahsool .img{
+    display: inline-block;
+    background-color:#000000;
+}
+
+.mahsool a i{
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.myBtn {
+    width: 100%;
+    transition: all 0.5s;
+}
+
+.myBtn:hover{
+    color: #ffffff;
+    box-shadow: 0 0 2px #888888;
+}
+
+h3,h4 {
+    text-align: right;
+}
+
+.mahsool.col-lg-3 {
+    width: 24%;
+    border: solid gray 1px;
+    border-color: #f0f0f0;
+    box-shadow: 0px 0px 8px #f0f0f0;
+    margin: 0 0.5%;
+    padding: 10px 0;
+    background-color: #f8f8f8;
+}
+
+.mahsool.col-lg-4 {
+    width: 32.3%;
+    border: solid 1px #f0f0f0;
+    box-shadow: 0px 0px 8px #f0f0f0;
+    margin: 0 0.5%;
+    padding: 10px 0;
+    background-color: #f8f8f8;
+}
+
+.basket{
+    position: absolute;
+    top:-10px;
+    z-index: 10;
+    transition: all 1s;
+    opacity: 0;
+}
+
+.mahsool:hover .basket{
+    top:70px;
+    opacity: 1;
+}
+
+.mahsool:hover img{
+    opacity: 0.5;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #ffffff;
+}
