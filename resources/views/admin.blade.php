@@ -74,6 +74,11 @@
                 </nav>
             </div>
         </div>
+        <div class="row">
+            <div class="col-lg-3">
+                <a href="addproduct" class="btn btn-info">اضافه کردن محصول</a>
+            </div>
+        </div>
     @else
         <a href="adminlogin"><button type="button" class="btn btn-default">لطفا وارد شوید</button></a>
     @endif

@@ -53,4 +53,7 @@ class User extends Model implements AuthenticatableContract,
             parent::setAttribute($key, $value);
         }
     }
+
+    public $timestamps = false;
+
 }

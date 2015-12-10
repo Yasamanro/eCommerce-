@@ -5,12 +5,17 @@
 Route::get('home', function () {
     return view('home');
 });
-
-Route::get('adminlogin',array('uses' => 'AdminController@showlogin'));
-Route::post('adminlogin',array('uses' => 'AdminController@doAdminLogin'));
-
+/////////////////////////////////////
+Route::get('adminlogin', array('uses' => 'AdminController@showlogin'));
+Route::post('adminlogin', array('uses' => 'AdminController@doAdminLogin'));
+/////////////////////////////////////
 Route::get('admin', function() {
     return view('admin');
 });
-
+/////////////////////////////////////
+Route::get('addproduct', function() {
+    return view('addproduct');
+});
+Route::post('addproduct',array('uses' => 'AdminController@insertProduct'));
+/////////////////////////////////////
 Route::get('logout',array('uses' => 'AdminController@doAdminLogout'));

@@ -258,26 +258,7 @@
                     <br>
                     <div class="col-lg-4 mahsool">
                         <div class="container-fluid">
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <div class="img">
-                                        <img src="../../Mobile-Phone-Apple-iPhone-6s-16GB34509e.jpg">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <p>کتاب های فکاهی</p>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <a href="more.html"><button class="btn myBtn" >بیشتر</button></a>
-                                </div>
-                                <div class="col-lg-10 col-lg-offset-1  basket">
-                                    <a href="addedtocart.html"><i class="fa fa-cart-plus  fa-4x"></i></a>
-                                </div>
-                            </div>
+                            @foreach()
                         </div>
                     </div>
                     <div class="col-lg-4 mahsool">

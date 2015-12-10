@@ -61,5 +61,6 @@ class AdminController extends Controller {
             $product->imgAddress = $destinationPath.'/'.$name;
         }
         $product->save();
+        return redirect('addproduct');
     }
 }
