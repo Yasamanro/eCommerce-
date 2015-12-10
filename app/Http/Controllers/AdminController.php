@@ -12,7 +12,7 @@ use Illuminate\Support\Facades\Validator;
 
 class AdminController extends Controller {
 
-    public function showLogin() {
+    public function showAdminLogin() {
         //showing the form
         return view('adminlogin');
     }

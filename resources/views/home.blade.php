@@ -25,12 +25,18 @@
                                         <li><a href="#">تماس با ما</a></li>
                                     </ul>
                                     <ul class="nav navbar-nav navbar-right pull-left">
-                                        <li><a href="signup.html">ثبت نام کنید</a></li>
-                                        <li><a href="#" data-toggle="modal" data-target="#myModal">ورود به سایت</a></li>
+                                        <li><a href="#">ثبت نام کنید</a></li>
+                                        <li>
+                                            @if(Auth::check())
+                                                <a href="logout">خروج</a>
+                                            @else
+                                                <a href="login">ورود به سایت</a>
+                                            @endif
+                                        </li>
                                     </ul>
                                     <ul>
                                         <li>
-                                            <form class="navbar-form navbar-left" role="search" action="search.html">
+                                            <form class="navbar-form navbar-left" role="search" action="search">
                                                 <div class="form-group">
                                                     <input type="text" class="form-control" placeholder="جستجو">
                                                 </div>
@@ -74,24 +80,24 @@
                                                     <h4 class="modal-title">ورود به سایت</h4>
                                                 </div>
                                                 <div class="modal-body">
-                                                    <form role="form" action="login">
+                                                    <form role="form" action="login" method="post">
                                                         <div class="form-group">
                                                             <div>
                                                                 <label for="email">ایمیل:</label>
                                                             </div>
-                                                            <input  type="email" name="email" class="form-control" id="email" value="sampleUser">
+                                                            <input  type="email" name="email" class="form-control" id="email">
                                                         </div>
                                                         <div class="form-group">
                                                             <div>
                                                                 <label for="pwd">رمز ورود:</label>
                                                             </div>
-                                                            <input name="password" type="password" class="form-control" id="pwd" value="sample">
+                                                            <input name="password" type="password" class="form-control" id="pwd">
                                                         </div>
                                                     </form>
                                                 </div>
                                                 <div class="modal-footer">
                                                     <button type="button" class="btn btn-default" data-dismiss="modal">بستن</button>
-                                                    <a href="login.html"><button type="button" class="btn btn-default">ورود</button></a>
+                                                    <a href="login"><button type="button" class="btn btn-default">ورود</button></a>
                                                 </div>
                                             </div>
                                         </div>

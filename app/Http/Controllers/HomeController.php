@@ -20,4 +20,32 @@ class HomeController extends Controller {
     public function showHome() {
         return view('home',array('mobiles' => $this->selectProduct('mobile') , 'books' => $this->selectProduct('book') , 'notebooks' => $this->selectProduct('notebook')));
     }
+
+    public function showLogin() {
+        return view('login');
+    }
+
+    public function doLogin(Request $request) {
+        $validator = Validator::make($request->all(), [
+            'email' => 'required',
+            'password' => 'required',
+        ]);
+
+        if($validator->fails()) {
+            return redirect('login')->withErrors($validator);
+        } else {
+            $password = array('email'=>$request->input('email'),'password' => $request->input('password'));
+
+            if(Auth::attempt($password)) {
+                return redirect('home');
+            } else {
+                return redirect('login')->withErrors("Wrong Username or Password");
+            }
+        }
+    }
+
+    public function doLogout() {
+        Auth::logout();
+        return redirect('home');
+    }
 }

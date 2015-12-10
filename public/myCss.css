@@ -183,6 +183,7 @@ a:hover{
 }
 .adminlogin {
     background: #ffffff;
+    padding: 3px;
 }
 .bg-danger.alert{
     direction: ltr;
