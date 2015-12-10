@@ -18,7 +18,7 @@
                         </div>
                         <div class="collapse navbar-collapse" id="myNavbar">
                             <ul class="nav navbar-nav">
-                                <li><a href="/">خانه</a></li>
+                                <li><a href="home">خانه</a></li>
                                 <li><a href="#">محصولات</a></li>
                                 <li><a href="#">تماس با ما</a></li>
                             </ul>

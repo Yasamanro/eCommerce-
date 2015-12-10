@@ -20,9 +20,9 @@
                                 </div>
                                 <div class="collapse navbar-collapse" id="myNavbar">
                                     <ul class="nav navbar-nav">
-                                        <li><a href="index.html">خانه</a></li>
-                                        <li><a href="index.html">محصولات</a></li>
-                                        <li><a href="index.html">تماس با ما</a></li>
+                                        <li><a href="home">خانه</a></li>
+                                        <li><a href="#">محصولات</a></li>
+                                        <li><a href="#">تماس با ما</a></li>
                                     </ul>
                                     <ul class="nav navbar-nav navbar-right pull-left">
                                         <li><a href="signup.html">ثبت نام کنید</a></li>
@@ -74,7 +74,7 @@
                                                     <h4 class="modal-title">ورود به سایت</h4>
                                                 </div>
                                                 <div class="modal-body">
-                                                    <form role="form">
+                                                    <form role="form" action="login">
                                                         <div class="form-group">
                                                             <div>
                                                                 <label for="email">ایمیل:</label>

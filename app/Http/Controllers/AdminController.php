@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
+use App\Product;
 use Hash;
 use Auth;
 use App\User;
@@ -17,7 +18,7 @@ class AdminController extends Controller {
     }
 
     //processing the form
-    public function doLogin(Request $request) {
+    public function doAdminLogin(Request $request) {
 
         $validator = Validator::make($request->all(), [
             'email' => 'required',
@@ -38,8 +39,27 @@ class AdminController extends Controller {
 
     }
 
-    public function doLogout() {
+    public function doAdminLogout() {
         Auth::logout();
         return redirect('adminlogin');
+    }
+
+    public function insertProduct(Request $request) {
+        $product = new Product;
+        $product->title = $request->input('title');
+        $product->body = $request->input('body');
+        $product->type = $request->input('type');
+        $product->quantity = $request->input('quantity');
+        $product->price = $request->input('price');
+        $product->available = $request->input('available');
+
+        if ($request->file('image')->isValid()) {
+            $file = $request->file('image');
+            $name = $file->getClientOriginalName();
+            $destinationPath = 'Images';
+            $file->move($destinationPath,$name);
+            $product->imgAddress = $destinationPath.'/'.$name;
+        }
+        $product->save();
     }
 }
