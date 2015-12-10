@@ -8,3 +8,9 @@ Route::get('/', function () {
 
 Route::get('adminlogin',array('uses' => 'AdminController@showlogin'));
 Route::post('adminlogin',array('uses' => 'AdminController@doLogin'));
+
+Route::get('admin', function() {
+    return view('admin');
+});
+
+Route::get('logout',array('uses' => 'AdminController@doLogout'));

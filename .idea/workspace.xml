@@ -2,404 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95d5237b-6014-4717-8ca7-7510cf84248c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.phar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.env.example" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/admin.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/adminlogin.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font-awesome-4.3.0/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/hash_equals.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/bin/php-parse.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/1_Installation.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/kmyacc.php.parser" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/rebuildParser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/zend_language_parser.phpy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/generator.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/typeHints.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/alias.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/anonymousClass.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/call.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/class.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/closure.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/function_signatures.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/include.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/list.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/literals.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/namespaces.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/numbers.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/operators.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/parentheses.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/switch.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/traitUse.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/variables.test" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/.gitignore" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/.gitmodules" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/.gitmodules" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/.travis.yml" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/.travis.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/Gruntfile.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/Gruntfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/LICENSE.bootstrap" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/LICENSE.bootstrap" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/README.md" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/UNLICENSE" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/UNLICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/assets/ico/favicon.png" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/assets/ico/favicon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/assets/js/holder.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/js/holder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/assets/js/html5shiv.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/js/html5shiv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/js/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/assets/js/respond.min.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/js/respond.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/bower.json" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.1.1-rc1/css/bootstrap-rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.1.1-rc1/css/bootstrap-rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.1.1-rc1/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.1.1-rc1/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.1.1-rc2/css/bootstrap-rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.1.1-rc2/css/bootstrap-rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.1.1-rc2/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.1.1-rc2/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.1.1/css/bootstrap-rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.1.2/css/bootstrap-rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.1.1/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.1.2/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.1.2/css/bootstrap-rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.1.1/css/bootstrap-rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.1.2/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.1.1/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc1/css/bootstrap-rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc1/css/bootstrap-rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc1/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc1/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc2/css/bootstrap-rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc2/css/bootstrap-rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc2/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc2/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc3/css/bootstrap-rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc3/css/bootstrap-rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc3/css/bootstrap-rtl.css.map" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc3/css/bootstrap-rtl.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc3/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc3/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc4/css/bootstrap-rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc4/css/bootstrap-rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc4/css/bootstrap-rtl.css.map" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc4/css/bootstrap-rtl.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc4/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.2.0-rc4/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.3.1-rc1/css/bootstrap-rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.3.1-rc1/css/bootstrap-rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.3.1-rc1/css/bootstrap-rtl.css.map" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.3.1-rc1/css/bootstrap-rtl.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.3.1-rc1/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.3.1-rc1/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.3.1-rc2/css/bootstrap-rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.3.1-rc2/css/bootstrap-rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.3.1-rc2/css/bootstrap-rtl.css.map" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.3.1/css/bootstrap-rtl.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.3.1-rc2/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.3.1-rc2/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.3.1/css/bootstrap-rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.3.1/css/bootstrap-rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.3.1/css/bootstrap-rtl.css.map" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.3.1-rc2/css/bootstrap-rtl.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/cdnjs/3.3.1/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/cdnjs/3.3.1/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/css/bootstrap-flipped.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/css/bootstrap-flipped.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/css/bootstrap-flipped.css.map" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/css/bootstrap-flipped.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/css/bootstrap-flipped.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/css/bootstrap-flipped.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/css/bootstrap-rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/css/bootstrap-rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/css/bootstrap-rtl.css.map" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/css/bootstrap-rtl.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/js/holder.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/assets/js/holder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/js/html5shiv.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/assets/js/html5shiv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/js/jquery.min.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/assets/js/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/dist/js/respond.min.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/assets/js/respond.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/carousel/carousel.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/carousel/carousel.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/carousel/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/carousel/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/LICENSE.txt" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/assets/flash/ZeroClipboard.swf" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/assets/flash/ZeroClipboard.swf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/assets/js/ie-emulation-modes-warning.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/assets/js/ie-emulation-modes-warning.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/assets/js/ie10-viewport-bug-workaround.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/assets/js/ie10-viewport-bug-workaround.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/assets/js/ie8-responsive-file-warning.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/assets/js/ie8-responsive-file-warning.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/assets/js/vendor/holder.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/assets/js/vendor/holder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/css/bootstrap-rtl.css.map" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/css/bootstrap-rtl.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/css/bootstrap-rtl.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/dist/css/bootstrap-rtl.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/dist/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/blog/blog.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/blog/blog.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/blog/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/blog/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/carousel/carousel.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/carousel/carousel.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/carousel/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/carousel/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/cover/cover.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/cover/cover.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/cover/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/cover/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/dashboard/dashboard.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/dashboard/dashboard.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/dashboard/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/dashboard/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/grid/grid.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/grid/grid.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/grid/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/grid/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/jumbotron-narrow/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/jumbotron-narrow/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/jumbotron-narrow/jumbotron-narrow.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/jumbotron-narrow/jumbotron-narrow.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/jumbotron/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/jumbotron/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/jumbotron/jumbotron.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/jumbotron/jumbotron.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/justified-nav/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/justified-nav/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/justified-nav/justified-nav.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/justified-nav/justified-nav.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/navbar-fixed-top/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/navbar-fixed-top/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/navbar-fixed-top/navbar-fixed-top.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/navbar-fixed-top/navbar-fixed-top.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/navbar-static-top/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/navbar-static-top/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/navbar-static-top/navbar-static-top.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/navbar-static-top/navbar-static-top.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/navbar/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/navbar/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/navbar/navbar.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/navbar/navbar.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/non-responsive/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/non-responsive/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/non-responsive/non-responsive.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/non-responsive/non-responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/offcanvas/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/offcanvas/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/offcanvas/offcanvas.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/offcanvas/offcanvas.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/offcanvas/offcanvas.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/offcanvas/offcanvas.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/signin/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/signin/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/signin/signin.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/signin/signin.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/starter-template/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/starter-template/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/starter-template/starter-template.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/starter-template/starter-template.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/sticky-footer-navbar/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/sticky-footer-navbar/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/sticky-footer-navbar/sticky-footer-navbar.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/sticky-footer/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/sticky-footer/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/sticky-footer/sticky-footer.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/sticky-footer/sticky-footer.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/theme/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/theme/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/theme/theme.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/theme/theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/tooltip-viewport/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/tooltip-viewport/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/tooltip-viewport/tooltip-viewport.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/tooltip-viewport/tooltip-viewport.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/originals/examples/tooltip-viewport/tooltip-viewport.js" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/originals/examples/tooltip-viewport/tooltip-viewport.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/rtl/form.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/rtl/form.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/rtl/index.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/rtl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/rtl/input-groups.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/rtl/input-groups.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/rtl/navbar.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/rtl/navbar.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/rtl/popovers.html" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/rtl/popovers.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/examples/rtl/rtl.css" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/examples/rtl/rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/alerts-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/alerts-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/badges-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/badges-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/bootstrap-flipped.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/bootstrap-flipped.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/bootstrap-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/bootstrap-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/button-groups-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/button-groups-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/carousel-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/carousel-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/close-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/close-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/dropdowns-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/dropdowns-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/flipped.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/flipped.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/forms-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/forms-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/grid-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/grid-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/input-groups-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/input-groups-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/list-group-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/list-group-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/media-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/media-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/mixins-flipped.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/mixins-flipped.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/mixins-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/mixins-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/mixins/border-radius-flipped.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/mixins/border-radius-flipped.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/mixins/gradients-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/mixins/gradients-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/mixins/grid-framework-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/mixins/grid-framework-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/mixins/grid-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/mixins/grid-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/mixins/pagination-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/mixins/pagination-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/modals-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/modals-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/navbar-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/navbar-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/navs-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/navs-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/normalize-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/normalize-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/pager-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/pager-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/pagination-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/pagination-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/panels-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/panels-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/popovers-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/popovers-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/progress-bars-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/progress-bars-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/responsive-embed-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/responsive-embed-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/tables-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/tables-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/type-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/type-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/utilities-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/utilities-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/less/variables-rtl.less" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/less/variables-rtl.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-rtl-master/package.json" afterPath="$PROJECT_DIR$/public/bootstrap-rtl-master/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/myCss.css" afterPath="$PROJECT_DIR$/public/myCss.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/.php_cs" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/.php_cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mockery/mockery/.styleci.yml" afterPath="$PROJECT_DIR$/vendor/mockery/mockery/.styleci.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/.travis.yml" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/0_Introduction.markdown" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/0_Introduction.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/2_Usage_of_basic_components.markdown" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/2_Usage_of_basic_components.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/3_Other_node_tree_representations.markdown" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/3_Other_node_tree_representations.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/4_Code_generation.markdown" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/4_Code_generation.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayDimFetch.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayDimFetch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayItem.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayItem.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Array_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Array_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Assign.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Assign.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/Analyzer/AstAnalyzer.php" afterPath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/Analyzer/AstAnalyzer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Autoloader.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Autoloader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/AutoloaderTest.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/AutoloaderTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BitwiseNot.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BitwiseNot.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BooleanNot.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BooleanNot.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/sebastian/diff/src/Chunk.php" afterPath="$PROJECT_DIR$/vendor/sebastian/diff/src/Chunk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClassConstFetch.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClassConstFetch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Clone_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Clone_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Closure.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Closure.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/Analyzer/ClosureAnalyzer.php" afterPath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/Analyzer/ClosureAnalyzer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/ClosureLocatorVisitor.php" afterPath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/ClosureLocatorVisitor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClosureUse.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClosureUse.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/CodeTestAbstract.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/CodeTestAbstract.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ConstFetch.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ConstFetch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/DNumber.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/DNumber.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/sebastian/diff/src/Diff.php" afterPath="$PROJECT_DIR$/vendor/sebastian/diff/src/Diff.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/sebastian/diff/src/Differ.php" afterPath="$PROJECT_DIR$/vendor/sebastian/diff/src/Differ.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/sebastian/diff/tests/DifferTest.php" afterPath="$PROJECT_DIR$/vendor/sebastian/diff/tests/DifferTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Empty_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Empty_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Lexer/EmulativeTest.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Lexer/EmulativeTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/Encapsed.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/Encapsed.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/component/Error.markdown" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/component/Error.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Eval_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Eval_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Exit_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Exit_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/FuncCall.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/FuncCall.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Include_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Include_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Instanceof_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Instanceof_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Isset_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Isset_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/LNumber.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/LNumber.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/component/Lexer.markdown" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/component/Lexer.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Lexer.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Lexer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/LexerTest.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/LexerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/sebastian/diff/src/Line.php" afterPath="$PROJECT_DIR$/vendor/sebastian/diff/src/Line.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/List_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/List_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/sebastian/diff/src/LCS/LongestCommonSubsequence.php" afterPath="$PROJECT_DIR$/vendor/sebastian/diff/src/LCS/LongestCommonSubsequence.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/MagicConstantVisitor.php" afterPath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/MagicConstantVisitor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/sebastian/diff/src/LCS/MemoryEfficientLongestCommonSubsequenceImplementation.php" afterPath="$PROJECT_DIR$/vendor/sebastian/diff/src/LCS/MemoryEfficientLongestCommonSubsequenceImplementation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeVisitor/NameResolverTest.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeVisitor/NameResolverTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/NameTest.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/NameTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Narm2.iml" afterPath="$PROJECT_DIR$/.idea/Narm2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/New_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/New_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeAbstractTest.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeAbstractTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeTraverserTest.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeTraverserTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Parser.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Parser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/sebastian/diff/src/Parser.php" afterPath="$PROJECT_DIR$/vendor/sebastian/diff/src/Parser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/ParserTest.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/ParserTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostDec.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostDec.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostInc.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostInc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreDec.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreDec.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreInc.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreInc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/PrettyPrinterTest.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/PrettyPrinterTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Print_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Print_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PropertyFetch.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PropertyFetch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/README.md" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/README.md" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php" afterPath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/Serializer.php" afterPath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/Serializer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ShellExec.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ShellExec.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinter/Standard.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinter/Standard.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticCall.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticCall.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticPropertyFetch.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticPropertyFetch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/String_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/String_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Ternary.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Ternary.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Throw_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Throw_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/sebastian/diff/tests/LCS/TimeEfficientImplementationTest.php" afterPath="$PROJECT_DIR$/vendor/sebastian/diff/tests/LCS/TimeEfficientImplementationTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/sebastian/diff/src/LCS/TimeEfficientLongestCommonSubsequenceImplementation.php" afterPath="$PROJECT_DIR$/vendor/sebastian/diff/src/LCS/TimeEfficientLongestCommonSubsequenceImplementation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/Analyzer/TokenAnalyzer.php" afterPath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/src/Analyzer/TokenAnalyzer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryMinus.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryMinus.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryPlus.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryPlus.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Variable.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Variable.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Serializer/XMLTest.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Serializer/XMLTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Yield_.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Yield_.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addedToAdmin.html" afterPath="$PROJECT_DIR$/addedToAdmin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addedtocart.html" afterPath="$PROJECT_DIR$/addedtocart.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin.html" afterPath="$PROJECT_DIR$/admin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/alias.test" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/alias.test" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/analyze.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/analyze.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/composer.json" afterPath="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/composer.json" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/sebastian/diff/composer.json" afterPath="$PROJECT_DIR$/vendor/sebastian/diff/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/docString.test" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/docString.test" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/docStringNewlines.test" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/docStringNewlines.test" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edituser.html" afterPath="$PROJECT_DIR$/edituser.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/encapsedString.test" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/encapsedString.test" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/finalizeShop.html" afterPath="$PROJECT_DIR$/finalizeShop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/loop/for.test" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/loop/for.test" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.html" afterPath="$PROJECT_DIR$/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/more.html" afterPath="$PROJECT_DIR$/more.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/objectAccess.test" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/objectAccess.test" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/phpunit.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test_old/run.php" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test_old/run.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search.html" afterPath="$PROJECT_DIR$/search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/shellExec.test" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/shellExec.test" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/signup.html" afterPath="$PROJECT_DIR$/signup.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/staticCall.test" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/staticCall.test" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/variable.test" afterPath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/variable.test" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Narm2.iws" />
@@ -428,41 +36,9 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
-              <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+            <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
+              <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="360">
-              <caret line="6" column="107" selection-start-line="6" selection-start-column="107" selection-end-line="6" selection-end-column="107" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-194.375" vertical-offset="0" max-vertical-offset="5310">
-              <caret line="311" column="56" selection-start-line="311" selection-start-column="56" selection-end-line="311" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Controller.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#40#85#0#PHP" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -470,20 +46,40 @@
       <file leaf-file-name="AdminController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="600">
-              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+            <state vertical-scroll-proportion="-27.5" vertical-offset="0" max-vertical-offset="750">
+              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
               <folding>
-                <element signature="e#40#53#0#PHP" expanded="true" />
+                <element signature="e#39#48#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.458333" vertical-offset="445" max-vertical-offset="840">
+              <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/admin.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="150">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="11" />
+            <state vertical-scroll-proportion="-1.1142857" vertical-offset="765" max-vertical-offset="1275">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.25" vertical-offset="75" max-vertical-offset="2010">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="85" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -492,38 +88,8 @@
       <file leaf-file-name="adminlogin.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/adminlogin.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.958333" vertical-offset="130" max-vertical-offset="480">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/app.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.125" vertical-offset="2745" max-vertical-offset="3120">
-              <caret line="196" column="20" selection-start-line="196" selection-start-column="20" selection-end-line="196" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3857143" vertical-offset="0" max-vertical-offset="870">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/User.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41666666" vertical-offset="10" max-vertical-offset="585">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="525">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -551,7 +117,6 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/edituser.html" />
         <option value="$PROJECT_DIR$/addedToAdmin.html" />
-        <option value="$PROJECT_DIR$/admin.html" />
         <option value="$PROJECT_DIR$/finalizeShop.html" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/more.html" />
@@ -560,13 +125,18 @@
         <option value="$PROJECT_DIR$/resources/views/master.balde.php" />
         <option value="$PROJECT_DIR$/.env.example" />
         <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" />
-        <option value="$PROJECT_DIR$/resources/views/admin.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/config/app.php" />
-        <option value="$PROJECT_DIR$/resources/views/adminlogin.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/master.blade.php" />
+        <option value="$PROJECT_DIR$/config/database.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/resources/views/adminlogin.blade.php" />
+        <option value="$PROJECT_DIR$/public/myCss.css" />
+        <option value="$PROJECT_DIR$/admin.html" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin.blade.php" />
       </list>
     </option>
   </component>
@@ -672,60 +242,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Narm2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Narm2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Narm2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Narm2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-rtl-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Narm2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Narm2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-rtl-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -935,7 +451,19 @@
       <option name="project" value="LOCAL" />
       <updated>1449582366589</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add laravel collective">
+      <created>1449667679771</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1449667679771</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Admin login created">
+      <created>1449670782155</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1449670782155</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -962,6 +490,7 @@
     <frame x="4" y="23" width="1266" height="692" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -977,7 +506,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1012,21 +540,14 @@
     <MESSAGE value="Create master view" />
     <MESSAGE value="Rename view name" />
     <MESSAGE value="Add laravel collective" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add laravel collective" />
+    <MESSAGE value="Admin login created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin login created" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/more.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2175">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/edituser.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="310" max-vertical-offset="2820">
@@ -1192,14 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/myCss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2820">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24793388" vertical-offset="0" max-vertical-offset="242">
@@ -1225,13 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.20833333" vertical-offset="1735" max-vertical-offset="2085">
           <caret line="116" column="89" selection-start-line="116" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.208333" vertical-offset="1435" max-vertical-offset="2010">
-          <caret line="112" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="128" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1301,25 +807,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.080213904" vertical-offset="0" max-vertical-offset="375">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/services.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41666666" vertical-offset="10" max-vertical-offset="585">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1341,55 +831,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="600">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-          <folding>
-            <element signature="e#40#53#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#40#85#0#PHP" expanded="true" />
+            <element signature="e#40#85#0#PHP" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
-          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="150">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/adminlogin.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.958333" vertical-offset="130" max-vertical-offset="480">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="360">
-          <caret line="6" column="107" selection-start-line="6" selection-start-column="107" selection-end-line="6" selection-end-column="107" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1403,8 +851,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3857143" vertical-offset="0" max-vertical-offset="870">
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="870">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/adminlogin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="525">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28074867" vertical-offset="0" max-vertical-offset="375">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="75" max-vertical-offset="2010">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="85" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/myCss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.05615" vertical-offset="0" max-vertical-offset="2910">
+          <caret line="151" column="23" selection-start-line="151" selection-start-column="23" selection-end-line="151" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25714287" vertical-offset="0" max-vertical-offset="360">
+          <caret line="6" column="107" selection-start-line="6" selection-start-column="107" selection-end-line="6" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0142858" vertical-offset="180" max-vertical-offset="1980">
+          <caret line="59" column="50" selection-start-line="59" selection-start-column="50" selection-end-line="59" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.458333" vertical-offset="445" max-vertical-offset="840">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.5" vertical-offset="0" max-vertical-offset="750">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="e#39#48#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1142857" vertical-offset="765" max-vertical-offset="1275">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
           <folding />
         </state>
       </provider>

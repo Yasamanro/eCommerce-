@@ -30,11 +30,16 @@ class AdminController extends Controller {
             $password = array('email'=>$request->input('email'),'password' => $request->input('password'));
 
             if(Auth::attempt($password)) {
-                return redirect('home');
+                return redirect('admin');
             } else {
                 return redirect('adminlogin')->withErrors("Wrong Username or Password");
             }
         }
 
+    }
+
+    public function doLogout() {
+        Auth::logout();
+        return redirect('adminlogin');
     }
 }
