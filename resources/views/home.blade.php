@@ -152,163 +152,76 @@
                     <hr>
 
                     <br>
-                    <h4 class="header">انواع کتب</h4>
+                    <h4 class="header">انواع کتاب</h4>
                     <br>
-
-                    <div class="col-lg-3 mahsool">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <div class="img">
-                                        <img src="../../8762eb88-4710-4d27-b7d2-7728f330f294.jpg">
+                    @foreach($books as $book)
+                        <div class="col-lg-3 mahsool">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="col-lg-10 col-lg-offset-1">
+                                        <div class="img">
+                                            <img src="{{$book->imgAddress}}">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-10 col-lg-offset-1">
+                                        <p>{{$book->title}}</p>
+                                    </div>
+                                </div>
+                                <div class="row greenBack">
+                                    <div class="col-lg-10 col-lg-offset-1">
+                                        <strong><p>{{$book->price}} &nbsp; تومان</p></strong>
+                                    </div>
+                                </div
+                                <div class="row">
+                                    <div class="col-lg-10 col-lg-offset-1">
+                                        <a href="#"><button class="btn myBtn" >بیشتر</button></a>
+                                    </div>
+                                    <div class="col-lg-10 col-lg-offset-1  basket">
+                                        <a href="#"><i class="fa fa-cart-plus  fa-4x"></i></a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <p>کتاب های فکاهی</p>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <a href="more.html"><button class="btn myBtn" >بیشتر</button></a>
-                                </div>
-                                <div class="col-lg-10 col-lg-offset-1  basket">
-                                    <a href="addedtocart.html"><i class="fa fa-cart-plus  fa-4x"></i></a>
-                                </div>
-                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-3 mahsool">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <div class="img">
-                                        <img src="../../8762eb88-4710-4d27-b7d2-7728f330f294.jpg">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <p>کتاب های فکاهی</p>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <a href="more.html"><button class="btn myBtn" >بیشتر</button></a>
-                                </div>
-                                <div class="col-lg-10 col-lg-offset-1  basket">
-                                    <a href="addedtocart.html"><i class="fa fa-cart-plus  fa-4x"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 mahsool">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <div class="img">
-                                        <img src="../../8762eb88-4710-4d27-b7d2-7728f330f294.jpg">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <p>کتاب های فکاهی</p>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <a href="more.html"><button class="btn myBtn" >بیشتر</button></a>
-                                </div>
-                                <div class="col-lg-10 col-lg-offset-1  basket">
-                                    <a href="addedtocart.html"><i class="fa fa-cart-plus  fa-4x"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 mahsool">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <div class="img">
-                                        <img src="../../8762eb88-4710-4d27-b7d2-7728f330f294.jpg">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <p>کتاب های فکاهی</p>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <a href="more.html"><button class="btn myBtn" >بیشتر</button></a>
-                                </div>
-                                <div class="col-lg-10 col-lg-offset-1  basket">
-                                    <a href="addedtocart.html"><i class="fa fa-cart-plus  fa-4x"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row whiteBack">
+                    @endforeach
+                    <div class="row whiteBack">
                     <br>
                     <h4 class="header">انواع موبایل</h4>
                     <br>
-                    <div class="col-lg-4 mahsool">
-                        <div class="container-fluid">
-                            @foreach()
-                        </div>
-                    </div>
-                    <div class="col-lg-4 mahsool">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <div class="img">
-                                        <img src="../../Mobile-Phone-Apple-iPhone-6s-16GB34509e.jpg">
+                    @foreach($mobiles as $product)
+                        <div class="col-lg-3 mahsool">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="col-lg-10 col-lg-offset-1">
+                                        <div class="img">
+                                            <img src="{{$product->imgAddress}}">
+                                        </div>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col-lg-10 col-lg-offset-1">
+                                        <p>{{$product->title}}</p>
+                                    </div>
+                                </div>
+                                <div class="row greenBack">
+                                    <div class="col-lg-10 col-lg-offset-1">
+                                        <strong><p>{{$product->price}} &nbsp; تومان</p></strong>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-lg-10 col-lg-offset-1">
+                                        <a href=""><button class="btn myBtn" >بیشتر</button></a>
+                                    </div>
+                                    <div class="col-lg-10 col-lg-offset-1  basket">
+                                        <a href="#"><i class="fa fa-cart-plus  fa-4x"></i></a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <p>کتاب های فکاهی</p>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <a href="more.html"><button class="btn myBtn" >بیشتر</button></a>
-                                </div>
-                                <div class="col-lg-10 col-lg-offset-1  basket">
-                                    <a href="addedtocart.html"><i class="fa fa-cart-plus  fa-4x"></i></a>
-                                </div>
-                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 mahsool">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <div class="img">
-                                        <img src="../../Mobile-Phone-Apple-iPhone-6s-16GB34509e.jpg">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <p>کتاب های فکاهی</p>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1">
-                                    <a href="more.html"><button class="btn myBtn" >بیشتر</button></a>
-                                </div>
-                                <div class="col-lg-10 col-lg-offset-1  basket">
-                                    <a href="addedtocart.html"><i class="fa fa-cart-plus  fa-4x"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    @endforeach
                     <div class="row"><br></div>
                     <div class="row"><br></div>
                     <div class="row"><br></div>
