@@ -34,3 +34,8 @@ Route::get('logout', array('uses' => 'HomeController@doLogout'));
 
 Route::post('cart', array('uses' => 'FrontController@cart'));
 Route::get('cart' , array('uses' => 'FrontController@cart'));
+
+////////////////////////////////////
+
+Route::post('search' , array('uses' => 'HomeController@search'));
+Route::get('search' , array('uses' => 'HomeContorller@getSearch'));

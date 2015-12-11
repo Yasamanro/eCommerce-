@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 use App\Product;
 use Hash;
 use Auth;
+use DB;
 use App\User;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
@@ -47,5 +48,15 @@ class HomeController extends Controller {
     public function doLogout() {
         Auth::logout();
         return redirect('home');
+    }
+
+    public function search(Request $request) {
+        $search = $request->input('search');
+        $findItems = DB::table('products')->where('title','like',"%$search%")->get();
+        return view('search',array('found' => $findItems));
+    }
+
+    public function getSearch() {
+        return view('search');
     }
 }
