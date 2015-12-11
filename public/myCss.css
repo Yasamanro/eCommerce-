@@ -192,3 +192,12 @@ a:hover{
 .greenBack {
     background-color: #99cb84;
 }
+
+.mahsool button i {
+    background-color: transparent;
+    color: #ffffff;
+}
+
+.mahsool button {
+    background-color: transparent;
+}

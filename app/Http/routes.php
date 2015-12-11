@@ -29,3 +29,8 @@ Route::get('logout' , array('uses' => 'AdminController@doAdminLogout'));
 Route::get('login' , array('uses' => 'HomeController@showLogin'));
 Route::post('login' , array('uses' => 'HomeController@doLogin'));
 Route::get('logout', array('uses' => 'HomeController@doLogout'));
+
+////////////////////////////////////
+
+Route::post('cart', array('uses' => 'FrontController@cart'));
+Route::get('cart' , array('uses' => 'FrontController@cart'));

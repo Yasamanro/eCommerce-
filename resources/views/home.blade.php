@@ -46,27 +46,7 @@
                                     </ul>
                                     <ul>
                                         <li>
-                                            <a href="#" class="pull-left"><i data-toggle="modal" data-target="#myModal2" class="fa fa-shopping-cart fa-2x"></i></a>
-                                            <!-- Modal -->
-                                            <div class="modal fade" id="myModal2" role="dialog">
-                                                <div class="modal-dialog">
-
-                                                    <!-- Modal content-->
-                                                    <div class="modal-content">
-                                                        <div class="modal-header">
-                                                            <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                            <h4 class="modal-title">سبد خرید شما در فاندو</h4>
-                                                        </div>
-                                                        <div class="modal-body">
-                                                            <p class="red">هیچ محصولی در سبد خرید موجود نمی باشد.</p>
-                                                        </div>
-                                                        <div class="modal-footer">
-                                                            <button type="button" class="btn btn-default" data-dismiss="modal">بستن</button>
-                                                        </div>
-                                                    </div>
-
-                                                </div>
-                                            </div>
+                                            <a href="cart" class="pull-left"><i class="fa fa-shopping-cart fa-2x"></i></a>
                                         </li>
                                     </ul>
                                     <!-- Modal -->
@@ -194,7 +174,11 @@
                         </div>
 
                         <div class="col-lg-10 col-lg-offset-1  basket">
-                            <a href="#"><i class="fa fa-cart-plus  fa-4x"></i></a>
+                            <form method="POST" action="{{url('cart')}}">
+                                <input type="hidden" name="product_id" value="{{$product->id}}">
+                                <input type="hidden" name="_token" value="{{ csrf_token() }}">
+                                <button type="submit" class="btn btn-fefault add-to-cart"><i class="fa fa-cart-plus  fa-4x"></i></button>
+                            </form>
                         </div>
                     </div>
                 </div>
@@ -236,7 +220,11 @@
                         </div>
 
                         <div class="col-lg-10 col-lg-offset-1  basket">
-                            <a href="#"><i class="fa fa-cart-plus  fa-4x"></i></a>
+                            <form method="POST" action="{{url('cart')}}">
+                                <input type="hidden" name="product_id" value="{{$product->id}}">
+                                <input type="hidden" name="_token" value="{{ csrf_token() }}">
+                                <button type="submit" class="btn btn-fefault add-to-cart"><i class="fa fa-cart-plus  fa-4x"></i></button>
+                            </form>
                         </div>
                     </div>
                 </div>
@@ -278,7 +266,11 @@
                         </div>
 
                         <div class="col-lg-10 col-lg-offset-1  basket">
-                            <a href="#"><i class="fa fa-cart-plus  fa-4x"></i></a>
+                            <form method="POST" action="{{url('cart')}}">
+                                <input type="hidden" name="product_id" value="{{$product->id}}">
+                                <input type="hidden" name="_token" value="{{ csrf_token() }}">
+                                <button type="submit" class="btn btn-fefault add-to-cart"><i class="fa fa-cart-plus  fa-4x"></i></button>
+                            </form>
                         </div>
                     </div>
                 </div>
