@@ -51,8 +51,9 @@ class HomeController extends Controller {
     }
 
     public function search(Request $request) {
-        $search = $request->input('search');
-        $findItems = DB::table('products')->where('title','like',"%$search%")->get();
+        $input = $request->input('search');
+        $search = '%'.$input.'%';
+        $findItems = DB::table('products')->where('title','LIKE',$search)->get();
         return view('search',array('found' => $findItems));
     }
 
