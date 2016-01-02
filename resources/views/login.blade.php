@@ -21,7 +21,7 @@
                 <input name="password" type="password" class="form-control" id="pwd">
             </div>
             {{ csrf_field() }}
-            <button type="submit" class="btn btn-default">ورود</button>
+            <input type="submit" class="btn btn-default" value="login">
         </form>
     </div>
 @endsection
